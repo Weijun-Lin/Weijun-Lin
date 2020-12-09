@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 November, 2020 - 07 December, 2020
+Week: 01 December, 2020 - 08 December, 2020
 
 Markdown   6 mins          █████████████▒░░░░░░░░░░░   52.83 % 
 Other      2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.23 % 
