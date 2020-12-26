@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2020 - 24 December, 2020
+Week: 18 December, 2020 - 25 December, 2020
 
 Java         6 hrs 27 mins   ████████████████▓░░░░░░░░   66.46 % 
 C            2 hrs 48 mins   ███████▒░░░░░░░░░░░░░░░░░   28.95 % 
