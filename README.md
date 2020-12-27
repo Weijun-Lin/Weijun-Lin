@@ -30,12 +30,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2020 - 25 December, 2020
+Week: 19 December, 2020 - 26 December, 2020
 
-Java         6 hrs 27 mins   ████████████████▓░░░░░░░░   66.46 % 
-C            2 hrs 48 mins   ███████▒░░░░░░░░░░░░░░░░░   28.95 % 
-Text         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Java    5 hrs 53 mins   ████████████████▒░░░░░░░░   65.50 % 
+C       2 hrs 48 mins   ███████▓░░░░░░░░░░░░░░░░░   31.24 % 
+Text    14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+YAML    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 <!--END_SECTION:waka-->
