@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 December, 2020 - 01 January, 2021
+Week: 26 December, 2020 - 02 January, 2021
 
 Matlab     3 hrs 48 mins   ████████████████████░░░░░   80.57 % 
 C          23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
