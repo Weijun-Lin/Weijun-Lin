@@ -30,12 +30,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2021 - 12 January, 2021
+Week: 06 January, 2021 - 13 January, 2021
 
-C++      2 hrs 3 mins    █████████████████████░░░░   84.52 % 
-Matlab   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Text     7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Delphi   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-C        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+C++      2 hrs 3 mins    ██████████████████████▒░░   89.59 % 
+Text     7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Delphi   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+C        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 <!--END_SECTION:waka-->
