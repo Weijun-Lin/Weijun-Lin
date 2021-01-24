@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2021 - 22 January, 2021
+Week: 16 January, 2021 - 23 January, 2021
 
 C     3 mins          ██████████████▓░░░░░░░░░░   58.71 % 
 C++   2 mins          ██████████▒░░░░░░░░░░░░░░   41.29 % 
