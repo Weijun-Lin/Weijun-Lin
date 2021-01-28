@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 January, 2021 - 26 January, 2021
+Week: 20 January, 2021 - 27 January, 2021
 
-Matlab   1 hr 29 mins    ███████████████████████▒░   92.94 % 
-C        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-C++      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Matlab        1 hr 45 mins    ███████████████████████▒░   93.70 % 
+C             3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+C++           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 ```
 <!--END_SECTION:waka-->
