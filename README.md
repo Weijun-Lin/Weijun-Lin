@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 January, 2021 - 29 January, 2021
+Week: 23 January, 2021 - 30 January, 2021
 
-Matlab        5 hrs 40 mins   ████████████████████████▒   96.97 % 
-Git Config    10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Matlab        6 hrs 5 mins    ████████████████████████▒   97.16 % 
+Git Config    10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 ```
 <!--END_SECTION:waka-->
