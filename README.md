@@ -15,16 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏢 I'm currently working at **Computer Vision**
-- 🚀 I use daily:
-  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-  ![C++](https://img.shields.io/badge/-Cpp-gray?style=plastic&logo=C%2B%2B)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-bb89f3?style=plastic&logo=visual-studio)
-  ![Pycharm](https://img.shields.io/badge/-Pycharm-2adc93?style=plastic&logo=pycharm)
+- 🏢 I'm currently working at **Computer Vision & Feature Detection**
+- 🚀 I use daily: C/C++ & Python & Matlab ...
+- 📫 Contact me: weijun-lin@foxmail.com
+
+  
 
 ## Repos Info
-![](https://github-readme-stats.vercel.app/api?username=Weijun-Lin)
+![](https://github-readme-stats.vercel.app/api?username=Weijun-Lin&theme=cobalt)
 
 ## 📊 Weekly development breakdown
 
