@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 - 🏢 I'm currently working at **Computer Vision & Feature Detection**
 - 🚀 I use daily: **C/C++** & **Python** & **Matlab** ...
 - 📫 Contact me: **weijun-lin@foxmail.com**
-- 🔗 My Site: **weijun-lin.top**
+- 🔗 My Site: [weijun-lin.top](weijun-lin.top)
 
   
 
 ## Repos Info
 ![](https://github-readme-stats.vercel.app/api?username=Weijun-Lin&theme=cobalt)
 
-## 📊 Weekly development breakdown
+## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 ```text
