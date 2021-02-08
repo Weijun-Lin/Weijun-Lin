@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2021 - 06 February, 2021
+Week: 31 January, 2021 - 07 February, 2021
 
-Objective-C   8 hrs 50 mins   ████████████████▒░░░░░░░░   65.12 % 
-Matlab        4 hrs 39 mins   ████████▓░░░░░░░░░░░░░░░░   34.37 % 
-Text          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Objective-C   12 hrs 13 mins  █████████████████▓░░░░░░░   70.50 % 
+Matlab        5 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   29.10 % 
+Text          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 <!--END_SECTION:waka-->
