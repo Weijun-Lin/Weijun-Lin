@@ -29,9 +29,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 February, 2021 - 26 February, 2021
-
-MATLAB        57 mins         ████████████████████▒░░░░   81.42 % 
-Objective-C   13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.55 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
