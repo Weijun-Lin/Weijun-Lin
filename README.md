@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 March, 2021 - 19 March, 2021
+Week: 13 March, 2021 - 20 March, 2021
 
-MATLAB        8 mins          ███████████████▓░░░░░░░░░   62.18 % 
-Objective-C   5 mins          █████████▒░░░░░░░░░░░░░░░   37.82 % 
+
 ```
 <!--END_SECTION:waka-->
