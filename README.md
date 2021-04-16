@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 April, 2021 - 14 April, 2021
+Week: 08 April, 2021 - 15 April, 2021
 
-MATLAB        7 hrs 23 mins   ████████████████████▓░░░░   83.18 % 
-Objective-C   1 hr 23 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Git Config    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Python        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+MATLAB        7 hrs 19 mins   ████████████▓░░░░░░░░░░░░   50.06 % 
+Python        5 hrs 49 mins   ██████████░░░░░░░░░░░░░░░   39.84 % 
+Objective-C   1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Git Config    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 <!--END_SECTION:waka-->
