@@ -29,11 +29,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 April, 2021 - 20 April, 2021
+Week: 14 April, 2021 - 21 April, 2021
 
-Python        26 hrs 43 mins  ████████████████████████▓   99.29 % 
-Git Config    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-MATLAB        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Text          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Python   30 hrs 58 mins  █████████████████████████   99.88 % 
+Text     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 <!--END_SECTION:waka-->
