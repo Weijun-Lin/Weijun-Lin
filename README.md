@@ -29,10 +29,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 April, 2021 - 28 April, 2021
+Week: 22 April, 2021 - 29 April, 2021
 
-Python        15 hrs          ████████████████████████▓   99.22 % 
-Text          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Python   7 hrs 29 mins   ████████████████████████▓   98.98 % 
+Text     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 <!--END_SECTION:waka-->
