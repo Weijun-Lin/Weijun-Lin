@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 May, 2021 - 21 May, 2021
+Week: 15 May, 2021 - 22 May, 2021
 
-Python        7 hrs 45 mins   ███████████████▒░░░░░░░░░   61.30 % 
-MATLAB        3 hrs 14 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.66 % 
-C             1 hr 35 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-C++           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Python        3 hrs 45 mins   ████████████░░░░░░░░░░░░░   48.09 % 
+MATLAB        2 hrs 24 mins   ███████▓░░░░░░░░░░░░░░░░░   30.83 % 
+C             1 hr 35 mins    █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+C++           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 <!--END_SECTION:waka-->
