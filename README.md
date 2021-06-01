@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 May, 2021 - 30 May, 2021
+Week: 24 May, 2021 - 31 May, 2021
 
 MATLAB   53 mins         ██████████████▓░░░░░░░░░░   58.78 % 
 C++      37 mins         ██████████▒░░░░░░░░░░░░░░   41.22 % 
