@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 25 June, 2021 - 01 July, 2021
+
+YAML   6 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
