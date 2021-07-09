@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 July, 2021 - 07 July, 2021
+Week: 02 July, 2021 - 08 July, 2021
 
-YAML   6 mins          ████████████████████████▒   97.17 % 
+
 ```
 <!--END_SECTION:waka-->
