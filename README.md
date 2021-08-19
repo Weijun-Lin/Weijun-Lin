@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 August, 2021 - 17 August, 2021
+Week: 12 August, 2021 - 18 August, 2021
 
-C++           8 hrs 5 mins    █████████████████████████   99.95 % 
+C++           8 hrs 42 mins   █████████████████████████   99.96 % 
 ```
 <!--END_SECTION:waka-->
