@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 August, 2021 - 26 August, 2021
+Week: 21 August, 2021 - 27 August, 2021
 
-C++           8 hrs           ████████████████████████▓   98.10 % 
-C             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Objective-C   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+C++           7 hrs 31 mins   ████████████████████████▒   97.99 % 
+C             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Objective-C   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 <!--END_SECTION:waka-->
