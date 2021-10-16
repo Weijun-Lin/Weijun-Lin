@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 October, 2021 - 14 October, 2021
+Week: 09 October, 2021 - 15 October, 2021
 
-MATLAB   5 hrs 31 mins   ████████████████████▒░░░░   80.88 % 
-Python   1 hr 18 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.12 % 
+MATLAB   6 hrs 43 mins   ████████████████████▓░░░░   82.82 % 
+Python   1 hr 18 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+TeX      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 <!--END_SECTION:waka-->
