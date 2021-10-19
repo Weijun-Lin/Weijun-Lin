@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 October, 2021 - 17 October, 2021
+Week: 12 October, 2021 - 18 October, 2021
 
-MATLAB     15 hrs 23 mins  ██████████████████████▓░░   90.05 % 
-Python     1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Markdown   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-TeX        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+MATLAB     24 hrs 34 mins  ███████████████████████▒░   93.52 % 
+Python     1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Markdown   35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+TeX        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 <!--END_SECTION:waka-->
