@@ -29,10 +29,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 October, 2021 - 22 October, 2021
+Week: 17 October, 2021 - 23 October, 2021
 
-MATLAB     22 hrs 36 mins  ███████████████████████▒░   93.34 % 
-Python     1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Markdown   35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+MATLAB   21 hrs 51 mins  █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
