@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2021 - 25 October, 2021
+Week: 20 October, 2021 - 26 October, 2021
 
-Python     5 hrs           █████████████░░░░░░░░░░░░   52.53 % 
-MATLAB     4 hrs 30 mins   ████████████░░░░░░░░░░░░░   47.35 % 
+Python     5 hrs           ██████████████████████▒░░   89.33 % 
+CMake      34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 <!--END_SECTION:waka-->
