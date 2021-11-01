@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2021 - 30 October, 2021
+Week: 25 October, 2021 - 31 October, 2021
 
 Python     5 hrs           ██████████████████████▒░░   89.33 % 
 CMake      34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
