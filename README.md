@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 October, 2021 - 01 November, 2021
-
-CMake   34 mins         ████████████████████████▓   98.02 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
