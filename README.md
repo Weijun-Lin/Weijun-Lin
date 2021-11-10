@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 03 November, 2021 - 09 November, 2021
+
+MATLAB   3 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
