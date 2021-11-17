@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 November, 2021 - 15 November, 2021
+Week: 10 November, 2021 - 16 November, 2021
 
-C++      33 mins         ██████████████████████▓░░   90.72 % 
-MATLAB   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+C++           2 hrs 17 mins   ██████████████████████▒░░   89.44 % 
+CMake         15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
 ```
 <!--END_SECTION:waka-->
