@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏢 I'm currently working at **Computer Vision & Feature Detection**
+- 🏢 I'm currently working at **Computer Vision & SLAM**
 - 🚀 I use daily: **C/C++** & **Python** & **Matlab** ...
 - 📫 Contact me: **weijun-lin@foxmail.com**
 - 🔗 My Site: [weijun-lin.top](weijun-lin.top)
