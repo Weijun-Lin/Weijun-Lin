@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 November, 2021 - 17 November, 2021
+Week: 12 November, 2021 - 18 November, 2021
 
-C++        6 hrs 31 mins   ███████████████████████▓░   94.80 % 
-CMake      15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-C          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+C++     13 hrs 26 mins  ███████████████████████░░   92.57 % 
+CMake   42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+JSON    14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+C       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 <!--END_SECTION:waka-->
