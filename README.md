@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 November, 2021 - 29 November, 2021
+Week: 24 November, 2021 - 30 November, 2021
 
-C++        4 hrs 39 mins   ███████████████████████▒░   92.91 % 
-C          21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+C++        8 hrs 13 mins   ███████████████████████▓░   95.23 % 
+C          24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 ```
 <!--END_SECTION:waka-->
