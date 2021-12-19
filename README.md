@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2021 - 17 December, 2021
+Week: 12 December, 2021 - 18 December, 2021
 
 C++           1 hr 48 mins    ████████████████████████▒   97.06 % 
 Text          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
