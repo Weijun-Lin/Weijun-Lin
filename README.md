@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 14 December, 2021 - 20 December, 2021
+
+C++      2 hrs 20 mins   █████████████▒░░░░░░░░░░░   52.99 % 
+Python   1 hr 31 mins    ████████▓░░░░░░░░░░░░░░░░   34.57 % 
+CMake    21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Text     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 ```
 <!--END_SECTION:waka-->
