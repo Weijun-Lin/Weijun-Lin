@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2021 - 20 December, 2021
+Week: 15 December, 2021 - 21 December, 2021
 
-C++      2 hrs 20 mins   █████████████▒░░░░░░░░░░░   52.99 % 
-Python   1 hr 31 mins    ████████▓░░░░░░░░░░░░░░░░   34.57 % 
-CMake    21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-Text     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+C++      4 hrs 48 mins   ███████████████▒░░░░░░░░░   60.92 % 
+Python   2 hrs 17 mins   ███████▒░░░░░░░░░░░░░░░░░   29.04 % 
+CMake    33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Text     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+C        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 <!--END_SECTION:waka-->
