@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 15 January, 2022 - 21 January, 2022
+
+Other   4 mins          ██████████▒░░░░░░░░░░░░░░   40.74 % 
+C++     4 mins          █████████▓░░░░░░░░░░░░░░░   38.56 % 
+CMake   2 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.70 % 
 ```
 <!--END_SECTION:waka-->
