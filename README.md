@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 January, 2022 - 25 January, 2022
+Week: 20 January, 2022 - 26 January, 2022
 
-C++     1 hr 46 mins    ██████████████████▒░░░░░░   72.83 % 
-CMake   31 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.73 % 
-Other   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+C++     1 hr 48 mins    ██████████████████▒░░░░░░   73.12 % 
+CMake   31 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.50 % 
+Other   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 ```
 <!--END_SECTION:waka-->
