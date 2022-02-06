@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
+Week: 30 January, 2022 - 05 February, 2022
 
-C++           6 hrs 44 mins   ██████████████████▓░░░░░░   74.83 % 
-CMake         1 hr 45 mins    █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-C             21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Objective-C   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+C++           4 hrs 22 mins   █████████████████████▓░░░   86.20 % 
+CMake         24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+C             15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Objective-C   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 <!--END_SECTION:waka-->
