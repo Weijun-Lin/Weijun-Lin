@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2022 - 05 February, 2022
+Week: 31 January, 2022 - 06 February, 2022
 
 C++           4 hrs 22 mins   █████████████████████▓░░░   86.20 % 
 CMake         24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
