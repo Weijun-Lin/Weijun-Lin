@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2022 - 16 February, 2022
+Week: 11 February, 2022 - 17 February, 2022
 
-Total: 3 hrs 5 mins
+Total: 1 hr 49 mins
 
-C++     3 hrs 3 mins    ████████████████████████▓   98.91 % 
+C++     1 hr 44 mins    ███████████████████████▓░   94.48 % 
+C       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 ```
 <!--END_SECTION:waka-->
