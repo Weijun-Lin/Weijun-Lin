@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-From: 13 February, 2022 - To: 20 February, 2022
+From: 15 February, 2022 - To: 22 February, 2022
 
-CMake   1 hr 34 mins    ██████████████████▒░░░░░░   73.77 % 
-C++     28 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.04 % 
-C       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+C++     4 hrs 28 mins   █████████████████▓░░░░░░░   70.55 % 
+CMake   1 hr 41 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.59 % 
+C       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Other   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 <!--END_SECTION:waka-->
