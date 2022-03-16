@@ -30,10 +30,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 March 2022 - To: 14 March 2022
+From: 08 March 2022 - To: 15 March 2022
 
-C++   4 hrs           ███████████████████████▓░   94.13 %
-C     15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+C++           8 hrs 3 mins    ███████████████████▓░░░░░   79.02 %
+CMake         1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
+YAML          33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+C             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Other         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
