@@ -30,12 +30,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 May 2022 - To: 19 May 2022
+From: 13 May 2022 - To: 20 May 2022
 
-C++      18 mins         ████████████████▒░░░░░░░░   65.86 %
-Python   9 mins          ████████░░░░░░░░░░░░░░░░░   31.67 %
-C        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python   9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
