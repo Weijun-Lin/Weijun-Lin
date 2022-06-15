@@ -30,10 +30,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 June 2022 - To: 13 June 2022
-
-YAML   5 mins          ██████████████▒░░░░░░░░░░   57.73 %
-C++    4 mins          ██████████▓░░░░░░░░░░░░░░   42.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
