@@ -30,10 +30,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 July 2022 - To: 10 July 2022
-
-C       42 mins         ██████████████▓░░░░░░░░░░   58.31 %
-Other   27 mins         █████████▒░░░░░░░░░░░░░░░   37.62 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
