@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 July 2022 - To: 14 July 2022
+From: 08 July 2022 - To: 15 July 2022
 
-Python            2 hrs 3 mins    █████████████▓░░░░░░░░░░░   55.00 %
-C++               1 hr 10 mins    ███████▓░░░░░░░░░░░░░░░░░   31.19 %
-CMake             10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-Makefile          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-JSON              6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Other             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+C++               7 hrs 18 mins   ████████████████▓░░░░░░░░   67.09 %
+Python            2 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
+CMake             42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+C                 16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Protocol Buffer   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Makefile          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
