@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 July 2022 - To: 21 July 2022
+From: 15 July 2022 - To: 22 July 2022
 
-C++               13 hrs 28 mins  ███████████████████▓░░░░░   78.00 %
-C                 1 hr 47 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-CMake             50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-Protocol Buffer   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Objective-C       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Git Config        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+C++               8 hrs 33 mins   █████████████▒░░░░░░░░░░░   52.70 %
+Python            3 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   20.36 %
+C                 2 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
+CMake             29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Protocol Buffer   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Text              22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
