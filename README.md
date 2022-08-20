@@ -30,12 +30,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 August 2022 - To: 18 August 2022
-
-JSON    1 hr 45 mins    █████████████▒░░░░░░░░░░░   52.95 %
-C++     1 hr 21 mins    ██████████▒░░░░░░░░░░░░░░   40.67 %
-CMake   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-C       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
