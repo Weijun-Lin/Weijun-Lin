@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 August 2022 - To: 01 September 2022
+From: 26 August 2022 - To: 02 September 2022
 
 C++     1 hr 13 mins    █████████████████████████   99.62 %
 CMake   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
