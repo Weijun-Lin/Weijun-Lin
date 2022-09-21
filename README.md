@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 September 2022 - To: 19 September 2022
+From: 13 September 2022 - To: 20 September 2022
 
-C++   1 min           █████████████████████████   100.00 %
+C++   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
