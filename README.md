@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 September 2022 - To: 27 September 2022
+From: 21 September 2022 - To: 28 September 2022
 
-C++     3 hrs 45 mins   █████████████████████████   99.36 %
-YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+C++     3 hrs 38 mins   █████████████████████████   99.35 %
+YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 CMake   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
