@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 October 2022 - To: 06 November 2022
+From: 31 October 2022 - To: 07 November 2022
 
-CMake         4 hrs 3 mins    ███████████████████░░░░░░   76.01 %
-C++           31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-YAML          24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-JSON          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Objective-C   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-C             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+CMake         4 hrs 33 mins   ███████████████░░░░░░░░░░   59.41 %
+C++           1 hr 45 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.98 %
+Objective-C   40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+C             18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+JSON          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+YAML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
