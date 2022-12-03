@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 November 2022 - To: 01 December 2022
+From: 25 November 2022 - To: 02 December 2022
 
-C++           5 hrs 18 mins   █████████████████████░░░░   84.26 %
-C             32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Objective-C   23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-JSON          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+C++           4 hrs 32 mins   █████████████████████▓░░░   86.11 %
+Objective-C   25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+C             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+CMake         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
