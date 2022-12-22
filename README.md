@@ -30,7 +30,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 14 December 2022 - To: 21 December 2022
+
+C++           1 hr 57 mins    ██████████████▒░░░░░░░░░░   57.09 %
+Cuda          42 mins         █████░░░░░░░░░░░░░░░░░░░░   20.60 %
+Other         20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
 ```
 
 <!--END_SECTION:waka-->
