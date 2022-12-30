@@ -30,12 +30,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 December 2022 - To: 28 December 2022
+From: 22 December 2022 - To: 29 December 2022
 
-YAML         43 mins         █████████▓░░░░░░░░░░░░░░░   38.13 %
-JavaScript   43 mins         █████████▒░░░░░░░░░░░░░░░   37.61 %
-C++          25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.46 %
-HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+JavaScript   1 hr 13 mins    ████████████████████████░   96.15 %
+HTML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 ```
 
 <!--END_SECTION:waka-->
