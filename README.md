@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 January 2023 - To: 12 January 2023
+From: 06 January 2023 - To: 13 January 2023
 
-JavaScript   43 mins         ██████████████████░░░░░░░   72.33 %
-HTML         16 mins         ███████░░░░░░░░░░░░░░░░░░   27.36 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   3 hrs 17 mins   ██████████████▓░░░░░░░░░░   58.26 %
+HTML         2 hrs 21 mins   ██████████▒░░░░░░░░░░░░░░   41.68 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
