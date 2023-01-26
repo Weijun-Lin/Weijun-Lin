@@ -30,11 +30,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 January 2023 - To: 24 January 2023
+From: 18 January 2023 - To: 25 January 2023
 
-JavaScript   5 hrs 11 mins   ███████████████████▒░░░░░   77.77 %
-HTML         1 hr 28 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JavaScript   2 hrs 44 mins   █████████████████▓░░░░░░░   70.83 %
+HTML         1 hr 7 mins     ███████▒░░░░░░░░░░░░░░░░░   29.17 %
 ```
 
 <!--END_SECTION:waka-->
