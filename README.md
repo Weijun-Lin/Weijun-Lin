@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2023 - To: 12 March 2023
+From: 06 March 2023 - To: 13 March 2023
 
-C++      2 hrs 4 mins    ████████████▒░░░░░░░░░░░░   49.37 %
-Python   1 hr 21 mins    ████████░░░░░░░░░░░░░░░░░   32.36 %
-Text     23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-CSV      22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+C++      7 hrs 22 mins   █████████████████████▓░░░   86.38 %
+Python   45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+CSV      20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+CMake    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
