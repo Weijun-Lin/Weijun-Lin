@@ -30,10 +30,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 March 2023 - To: 23 March 2023
+From: 17 March 2023 - To: 24 March 2023
 
-C++     26 hrs 21 mins  █████████████████████████   100.00 %
-CMake   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C++   28 hrs 43 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
