@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 March 2023 - To: 30 March 2023
+From: 24 March 2023 - To: 31 March 2023
 
-C++           9 hrs 7 mins    ████████████████████████▓   98.15 %
-JSON          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Git Config    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+C++           4 hrs 8 mins    ████████████████████████░   96.03 %
+JSON          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Git Config    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
