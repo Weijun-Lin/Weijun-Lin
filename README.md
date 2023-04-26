@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 April 2023 - To: 24 April 2023
+From: 18 April 2023 - To: 25 April 2023
 
 C++      3 hrs 44 mins   █████████████████▒░░░░░░░   69.85 %
 Python   1 hr 28 mins    ███████░░░░░░░░░░░░░░░░░░   27.66 %
