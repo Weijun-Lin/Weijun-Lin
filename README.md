@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🏢 I'm currently working at **Computer Vision & SLAM**
 - 🚀 I use daily: **C/C++** & **Python** & **Matlab** ...
 - 📫 Contact me: **weijun-lin@foxmail.com**
-- 🔗 My Site: [weijun-lin.top](https://weijun-lin.top/p)
+- 🔗 My Site: [weijun-lin.top](https://weijun-lin.top/)
 
   
 
