@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 28 November 2023
+From: 22 November 2023 - To: 29 November 2023
 
-Python       9 hrs 33 mins   ██████████████████████▓░░   91.32 %
-Markdown     37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-C++          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Python       9 hrs 5 mins    ██████████████████████▒░░   88.80 %
+Markdown     52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+C++          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
