@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2023 - To: 11 December 2023
+From: 06 December 2023 - To: 13 December 2023
 
-Python   1 hr 8 mins     █████████████████████████   100.00 %
+Python     1 hr 33 mins    ██████████████▓░░░░░░░░░░   58.95 %
+Markdown   1 hr 5 mins     ██████████▒░░░░░░░░░░░░░░   41.05 %
 ```
 
 <!--END_SECTION:waka-->
