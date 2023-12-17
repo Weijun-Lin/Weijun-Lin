@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2023 - To: 15 December 2023
+From: 09 December 2023 - To: 16 December 2023
 
 Python     1 hr 33 mins    ██████████████▓░░░░░░░░░░   58.46 %
 Markdown   1 hr 5 mins     ██████████▒░░░░░░░░░░░░░░   40.72 %
