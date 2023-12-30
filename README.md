@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 28 December 2023
+From: 22 December 2023 - To: 29 December 2023
 
-Python       4 hrs 47 mins   ██████████████████████▓░░   90.01 %
-Markdown     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-XML          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-MATLAB       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Python       2 hrs 4 mins    ████████████████████▓░░░░   82.34 %
+Markdown     13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+XML          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
