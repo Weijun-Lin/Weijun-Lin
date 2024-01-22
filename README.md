@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2024 - To: 20 January 2024
+From: 14 January 2024 - To: 21 January 2024
 
-Python       20 hrs          █████████████████░░░░░░░░   67.54 %
-Other        6 hrs 40 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.52 %
-Bash         1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-JSON         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-YAML         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Python       26 hrs 39 mins  ██████████████████░░░░░░░   72.29 %
+Other        7 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
+Bash         1 hr 49 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+JSON         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+YAML         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
