@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2024 - To: 26 April 2024
+From: 20 April 2024 - To: 27 April 2024
 
-Python   3 hrs 21 mins   ███████████████████████▒░   93.78 %
-YAML     13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python   3 hrs 46 mins   ███████████████████████▓░   94.45 %
+YAML     13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
